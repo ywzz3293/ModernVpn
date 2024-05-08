@@ -89,6 +89,11 @@
                             <Track.IncreaseRepeatButton>
                                 <RepeatButton Command="{x:Static ScrollBar.PageDownCommand}"/>
                             </Track.IncreaseRepeatButton>
+
+                            <Track.Thumb>
+                                <Thumb/>
+                            </Track.Thumb>
+                            
                         </Track>
                     </Grid>
 
