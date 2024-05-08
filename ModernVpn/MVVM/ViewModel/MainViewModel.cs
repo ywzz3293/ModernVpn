@@ -24,7 +24,7 @@ namespace ModernVpn.MVVM.ViewModel
         {
             get { return _currentView; }
             set { _currentView = value;
-                OnPropetychanged();
+                OnPropetyChanged();
             }
         }
 

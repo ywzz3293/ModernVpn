@@ -35,11 +35,17 @@
                       Background="#252525"
                       BorderThickness="0"
                       ScrollViewer.CanContentScroll="False" />
+        <TextBlock  Text = "{Binding ConenctionStatus}"
+                    Foreground="white"
+                    Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment ="Center"/>
         <Button Width="250"
                 Height="45"
                 Content="Connect"
                 Grid.Row="1"
-                Style="{StaticResource ConnectButtonStyle}"/>
+                Style="{StaticResource ConnectButtonStyle}"
+                Command="{Binding ConnectionCommmand}"/>
 
     </Grid>
 </UserControl>

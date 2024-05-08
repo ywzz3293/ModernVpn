@@ -11,7 +11,7 @@ namespace ModernVpn.Core
     internal class ObservableObject : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler? PropertyChanged;
-        protected virtual void OnPropetychanged([CallerMemberName] string propertyName = null)
+        protected virtual void OnPropetyChanged([CallerMemberName] string propertyName = null)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
