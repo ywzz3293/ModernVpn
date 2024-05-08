@@ -15,8 +15,8 @@
                             CornerRadius="4"
                             Margin="4">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock Margin="{TemplateBinding Padding}"
-                                Text="{Binding Path=(extenisions:Extensions.Icon), RelativeSource={RelativeSource Mode=TemplatedParent}}"/>
+                            <TextBlock Margin="{TemplateBinding Padding}"/>
+                                <!--  Text="{Binding Path=(extenisions:Extensions.Icon), RelativeSource={RelativeSource Mode=TemplatedParent}}"-->
                             <ContentPresenter VerticalAlignment="Center"
                                               Margin="0,0,0,2"/>
                         </StackPanel>

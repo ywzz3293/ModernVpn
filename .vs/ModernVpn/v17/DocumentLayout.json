@@ -3,6 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|c:\\users\\shenw\\documents\\projects\\modernvpn\\modernvpn\\themes\\menubutton.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|solutionrelative:modernvpn\\themes\\menubutton.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|c:\\users\\shenw\\documents\\projects\\modernvpn\\modernvpn\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|solutionrelative:modernvpn\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\1e2a6b837982cae8138f9d3eaa1c40f269c3c8f302184002a2d7b36cfe3be670\\App.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|c:\\users\\shenw\\documents\\projects\\modernvpn\\modernvpn\\themes\\serverlist.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|solutionrelative:modernvpn\\themes\\serverlist.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|c:\\users\\shenw\\documents\\projects\\modernvpn\\modernvpn\\mvvm\\view\\protectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|solutionrelative:modernvpn\\mvvm\\view\\protectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -21,10 +42,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|c:\\users\\shenw\\documents\\projects\\modernvpn\\modernvpn\\mvvm\\viewmodel\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|solutionrelative:modernvpn\\mvvm\\viewmodel\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|c:\\users\\shenw\\documents\\projects\\modernvpn\\modernvpn\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|solutionrelative:modernvpn\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C141F385-7521-458E-845F-08870379F782}|ModernVpn\\ModernVpn.csproj|c:\\users\\shenw\\documents\\projects\\modernvpn\\modernvpn\\mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +63,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuButton.Nord.xaml",
+              "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\Themes\\MenuButton.Nord.xaml",
+              "RelativeDocumentMoniker": "ModernVpn\\Themes\\MenuButton.Nord.xaml",
+              "ToolTip": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\Themes\\MenuButton.Nord.xaml",
+              "RelativeToolTip": "ModernVpn\\Themes\\MenuButton.Nord.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T02:22:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProtectionView.xaml",
+              "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\ProtectionView.xaml",
+              "RelativeDocumentMoniker": "ModernVpn\\MVVM\\View\\ProtectionView.xaml",
+              "ToolTip": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\ProtectionView.xaml",
+              "RelativeToolTip": "ModernVpn\\MVVM\\View\\ProtectionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T00:04:54.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ModernVpn\\MVVM\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\MainWindow.xaml",
+              "RelativeToolTip": "ModernVpn\\MVVM\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T15:13:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs",
+              "ToolTip": "C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs [Read Only]",
+              "ViewState": "AQIAAPYFAAAAAAAAAAAkwAMGAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:21:48.317Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\1e2a6b837982cae8138f9d3eaa1c40f269c3c8f302184002a2d7b36cfe3be670\\App.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1e2a6b837982cae8138f9d3eaa1c40f269c3c8f302184002a2d7b36cfe3be670\\App.cs",
+              "ToolTip": "C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\1e2a6b837982cae8138f9d3eaa1c40f269c3c8f302184002a2d7b36cfe3be670\\App.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1e2a6b837982cae8138f9d3eaa1c40f269c3c8f302184002a2d7b36cfe3be670\\App.cs [Read Only]",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:21:46.057Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\shenw\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAKQBAAAAAAAAAAAWwLUBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:21:31.206Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerList.Nord.xaml",
+              "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\Themes\\ServerList.Nord.xaml",
+              "RelativeDocumentMoniker": "ModernVpn\\Themes\\ServerList.Nord.xaml",
+              "ToolTip": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\Themes\\ServerList.Nord.xaml",
+              "RelativeToolTip": "ModernVpn\\Themes\\ServerList.Nord.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T02:20:33.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ServerModel.cs",
               "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\Model\\ServerModel.cs",
               "RelativeDocumentMoniker": "ModernVpn\\MVVM\\Model\\ServerModel.cs",
@@ -58,12 +162,11 @@
               "RelativeToolTip": "ModernVpn\\MVVM\\Model\\ServerModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T02:12:38.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T02:12:38.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProtectionViewModel.cs",
               "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\ViewModel\\ProtectionViewModel.cs",
               "RelativeDocumentMoniker": "ModernVpn\\MVVM\\ViewModel\\ProtectionViewModel.cs",
@@ -76,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\App.xaml",
               "RelativeDocumentMoniker": "ModernVpn\\App.xaml",
@@ -88,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "SettingsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\ViewModel\\SettingsViewModel.cs",
               "RelativeDocumentMoniker": "ModernVpn\\MVVM\\ViewModel\\SettingsViewModel.cs",
@@ -96,35 +199,11 @@
               "RelativeToolTip": "ModernVpn\\MVVM\\ViewModel\\SettingsViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T02:11:49.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T02:11:49.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProtectionView.xaml",
-              "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\ProtectionView.xaml",
-              "RelativeDocumentMoniker": "ModernVpn\\MVVM\\View\\ProtectionView.xaml",
-              "ToolTip": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\ProtectionView.xaml",
-              "RelativeToolTip": "ModernVpn\\MVVM\\View\\ProtectionView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-08T00:04:54.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ModernVpn\\MVVM\\View\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\MainWindow.xaml",
-              "RelativeToolTip": "ModernVpn\\MVVM\\View\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T15:13:32.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\Core\\RelayCommand.cs",
               "RelativeDocumentMoniker": "ModernVpn\\Core\\RelayCommand.cs",
@@ -136,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ObservableObject.cs",
               "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\Core\\ObservableObject.cs",
               "RelativeDocumentMoniker": "ModernVpn\\Core\\ObservableObject.cs",
@@ -148,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\shenw\\Documents\\Projects\\ModernVpn\\ModernVpn\\MVVM\\View\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ModernVpn\\MVVM\\View\\MainWindow.xaml.cs",
