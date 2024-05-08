@@ -24,7 +24,13 @@
     <Page Update="MVVM\View\SettingsView.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Themes\ConnectButton.Nord.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Themes\MenuButton.Nord.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\ServerList.Nord.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Themes\TitlebarButton.Nord.xaml">

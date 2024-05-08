@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\shenw\Documents\Projects\ModernVpn\ModernVpn\App.xaml
-51566525830
+7-697689770
 
 12167492040
 198915248976
-MVVM\View\MainWindow.xaml;MVVM\View\ProtectionView.xaml;MVVM\View\SettingsView.xaml;Themes\MenuButton.Nord.xaml;Themes\TitlebarButton.Nord.xaml;
+MVVM\View\MainWindow.xaml;MVVM\View\ProtectionView.xaml;MVVM\View\SettingsView.xaml;Themes\ConnectButton.Nord.xaml;Themes\MenuButton.Nord.xaml;Themes\ServerList.Nord.xaml;Themes\TitlebarButton.Nord.xaml;
 
 False
 
