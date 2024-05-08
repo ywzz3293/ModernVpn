@@ -26,3 +26,4 @@ C:\Users\shenw\Documents\Projects\ModernVpn\ModernVpn\obj\Debug\net8.0-windows\M
 C:\Users\shenw\Documents\Projects\ModernVpn\ModernVpn\obj\Debug\net8.0-windows\MVVM\View\SettingsView.baml
 C:\Users\shenw\Documents\Projects\ModernVpn\ModernVpn\obj\Debug\net8.0-windows\Themes\TitlebarButton.Nord.baml
 C:\Users\shenw\Documents\Projects\ModernVpn\ModernVpn\obj\Debug\net8.0-windows\Themes\MenuButton.Nord.baml
+C:\Users\shenw\Documents\Projects\ModernVpn\ModernVpn\obj\Debug\net8.0-windows\ModernVpn.sourcelink.json

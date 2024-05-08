@@ -3,7 +3,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:ModernVpn" xmlns:viewmodel="clr-namespace:ModernVpn.MVVM.ViewModel"
+        xmlns:local="clr-namespace:ModernVpn"
+        xmlns:viewmodel="clr-namespace:ModernVpn.MVVM.ViewModel"
+        xmlns:extensions="clr-namespace:ModernVpn.Core"
         mc:Ignorable="d"
         Title="MainWindow" 
         Height="450" Width="800"
@@ -88,8 +90,7 @@
             </Border.Style>
 
             <StackPanel>
-                <RadioButton Content="VPN"
-                             
+                <RadioButton Content="Sheild"
                          FontSize="16"
                          FontWeight="Normal"
                          Foreground="LightGray"
@@ -100,6 +101,7 @@
                          FontWeight="Normal"
                          Foreground="LightGray"/>
                 <RadioButton Content="Settings"
+                             
                          FontSize="16"
                          FontWeight="Normal"
                          Foreground="LightGray"
