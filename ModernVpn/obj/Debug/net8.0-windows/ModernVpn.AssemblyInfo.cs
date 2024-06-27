@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModernVpn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce43ebfc6a354e59cac309328c4a66f6e9c3a3c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb1723f03264b9f28fca04dcac1c0bbc7eefd66")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModernVpn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModernVpn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
